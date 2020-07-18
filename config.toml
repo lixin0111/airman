@@ -1,0 +1,12 @@
+baseURL = "http://lix23.com"
+languageCode = "zn-cn"
+title = "兵临城下"
+theme = "m10c"
+
+[params]
+  author = "lixin"
+  description = " learning how to write golang code // Software Engineer // Father of a little cute girl " 
+
+[[params.social]]
+  name = "github"
+  url = "https://github.com/lixin0111"
