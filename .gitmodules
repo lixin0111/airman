@@ -4,3 +4,7 @@
 [submodule "themes/m10c"]
 	path = themes/m10c
 	url = https://github.com/vaga/hugo-theme-m10c.git
+[submodule "public"]
+	path = public
+	url = https://github.com/lixin0111/lixin0111.github.com.git
+	branch = master
